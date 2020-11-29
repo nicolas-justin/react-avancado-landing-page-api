@@ -20,10 +20,15 @@
       "plugin": "upload",
       "required": true
     },
-    "header": {
+    "sectionHero": {
       "type": "component",
       "repeatable": false,
-      "component": "page.header"
+      "component": "page.section-hero"
+    },
+    "sectionAboutProject": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-project"
     }
   }
 }

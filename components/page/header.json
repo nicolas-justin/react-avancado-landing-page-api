@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_page_section_heroes",
+  "collectionName": "components_page_headers",
   "info": {
-    "name": "sectionHero",
+    "name": "header",
     "icon": "h-square",
     "description": ""
   },

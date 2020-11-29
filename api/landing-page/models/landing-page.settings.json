@@ -35,7 +35,8 @@
     "sectionTech": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-tech"
+      "component": "page.section-tech",
+      "required": true
     },
     "sectionConcepts": {
       "type": "component",

@@ -2,21 +2,25 @@
   "collectionName": "components_page_pricing_boxes",
   "info": {
     "name": "pricingBox",
-    "icon": "dollar-sign"
+    "icon": "dollar-sign",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "totalPrice": {
       "type": "integer",
-      "required": true
+      "required": true,
+      "default": 549
     },
     "numberInstallments": {
       "type": "integer",
-      "required": true
+      "required": true,
+      "default": 6
     },
     "priceInstallments": {
       "type": "integer",
-      "required": true
+      "required": true,
+      "default": 38
     },
     "benefits": {
       "type": "richtext",

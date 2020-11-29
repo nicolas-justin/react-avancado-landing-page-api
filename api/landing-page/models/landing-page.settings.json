@@ -34,6 +34,11 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-tech"
+    },
+    "sectionConcepts": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-concepts"
     }
   }
 }

@@ -18,14 +18,14 @@
     "button": {
       "type": "component",
       "repeatable": false,
-      "component": "page.button"
+      "component": "page.button",
+      "required": true
     },
     "image": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
-        "images",
-        "videos"
+        "images"
       ],
       "plugin": "upload",
       "required": true

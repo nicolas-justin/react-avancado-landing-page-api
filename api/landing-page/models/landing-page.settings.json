@@ -72,6 +72,12 @@
       "repeatable": false,
       "component": "page.section-reviews",
       "required": true
+    },
+    "sectionFaq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-faq",
+      "required": true
     }
   }
 }

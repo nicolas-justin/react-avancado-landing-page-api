@@ -26,17 +26,18 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "knex": "<0.20.0",
+    "pg": "latest",
     "strapi": "3.3.3",
     "strapi-admin": "3.3.3",
-    "strapi-utils": "3.3.3",
-    "strapi-plugin-content-type-builder": "3.3.3",
-    "strapi-plugin-content-manager": "3.3.3",
-    "strapi-plugin-users-permissions": "3.3.3",
-    "strapi-plugin-email": "3.3.3",
-    "strapi-plugin-upload": "3.3.3",
     "strapi-connector-bookshelf": "3.3.3",
-    "knex": "<0.20.0",
-    "pg": "latest"
+    "strapi-plugin-content-manager": "3.3.3",
+    "strapi-plugin-content-type-builder": "3.3.3",
+    "strapi-plugin-email": "3.3.3",
+    "strapi-plugin-graphql": "3.3.3",
+    "strapi-plugin-upload": "3.3.3",
+    "strapi-plugin-users-permissions": "3.3.3",
+    "strapi-utils": "3.3.3"
   },
   "strapi": {
     "uuid": "4cd12a96-944f-4926-8137-32cdf0e8097c"
